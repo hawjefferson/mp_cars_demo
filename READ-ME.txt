@@ -1,0 +1,1 @@
+This is a sample mp_rental_cars_demo_template
